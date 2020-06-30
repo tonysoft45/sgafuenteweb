@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cl_tBarra_Mensaje_Fondo{
+   position:absolute;
+   top:315px;
+   left:470px;
+   
+   width:400px;
+   height:40px; 
+   
+   background:#000;
+   
+   border-color:#999;
+   border-style:double;
+   border-width:1px;
+     
+   font-size:14px;
+   font-family:Verdana, Geneva, sans-serif;
+   color:#000;
+   text-align:center;
+   line-height:1px;
+   font-weight:lighter;
+   
+   z-index:99;
+         
+   visibility:hidden; 
+}
+
+.cl_tBarra_Mensaje_Espere{
+   position:absolute;
+   top:300px;
+   left:480px;
+   
+   width:400px;
+   height:30px;  
+
+   background:#F2F2F2;   
+    
+   border-color:#999;
+   border-style:double;
+   border-width:1px;
+     
+   font-size:14px;
+   font-family:Verdana, Geneva, sans-serif;
+   color:#000;
+   text-align:center;
+   line-height:1px;
+   font-weight:lighter;
+   
+   z-index:100;
+   
+   
+   visibility:hidden; 
+}
+
+.cl_tBarra_Mensaje_Exitoso{
+   position:absolute;
+   top:300px;
+   left:480px;
+   
+   width:400px;
+   height:30px;  
+
+   background:#F2F2F2;   
+    
+   border-color:#999;
+   border-style:double;
+   border-width:1px;
+     
+   font-size:14px;
+   font-family:Verdana, Geneva, sans-serif;
+   color:#000;
+   text-align:center;
+   line-height:1px;
+   font-weight:lighter;
+   
+   z-index:100;
+   
+   
+   visibility:hidden; 
+}
+
+.cl_tBarra_Mensaje_Falla{
+   position:absolute;
+   top:300px;
+   left:480px;
+   
+   width:400px;
+   height:30px;  
+
+   background:#F2F2F2;   
+    
+   border-color:#999;
+   border-style:double;
+   border-width:1px;
+     
+   font-size:14px;
+   font-family:Verdana, Geneva, sans-serif;
+   color:#000;
+   text-align:center;
+   line-height:1px;
+   font-weight:lighter;
+   
+   z-index:100;
+   
+   
+   visibility:hidden; 
+}
+ 
+ 
+  
+
+/* Imagenes */ 
+.cl_img_Barra_Mensaje_Espere{
+	width:40px;
+	height:40px; 
+}
+
+.cl_img_Barra_Mensaje_Exitoso{
+	width:40px;
+	height:40px; 
+}
+
+.cl_img_Barra_Mensaje_Falla{
+	width:40px;
+	height:40px; 
+}

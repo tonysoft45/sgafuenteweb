@@ -1,0 +1,33 @@
+footer {
+    background-color:#1A1A1A;
+    height: 50%;
+    color: white;
+    padding: 15px;
+}
+
+.main1 { 
+    display:flex;   
+    margin:0 auto;
+}
+
+a img:hover {
+    color: #fff;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu a::after {
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 6px;
+    top: .8em;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-left: .1rem;
+    margin-right: .1rem;
+}

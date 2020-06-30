@@ -1,0 +1,308 @@
+body
+{
+   background-color: #F4F7F9;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#webheader
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#Layer1
+{
+   background-color: #F2EDE3;
+   background-image: none;
+}
+#Layer2
+{
+   background-color: #B0C1D1;
+   background-image: none;
+   border: 1px #CCCCCC none;
+}
+#Layer3
+{
+   background-color: transparent;
+   background-image: url(../imagenes/background.png);
+   background-repeat: repeat;
+   background-position: left top;
+   background-size: 100% 100%;
+   border: 1px #CCCCCC solid;
+   -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+   border-radius: 7px;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#Layer4
+{
+   background-color: #F4F7F9;
+   background-image: none;
+   border: 1px #CCCCCC none;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+}
+#usuario
+{
+   border: 1px #D3D3D3 solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+#txt_usuario
+{
+   border: 1px #D3D3D3 solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+#txt_usuario:focus
+{
+   border-color: #66AFE9;
+   -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#txt_password
+{
+   border: 1px #D3D3D3 solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+   vertical-align: middle;
+}
+#txt_password:focus
+{
+   border-color: #66AFE9;
+   -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#bt_Entrar
+{
+   border: 1px #2E6DA4 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: #0080C0;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   
+   position:absolute;left:518px;top:169px;width:96px;height:25px;z-index:6;cursor:pointer;visibility:visible;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#PageFooter1
+{
+   background-color: #F5F7F9;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+
+#wb_Text2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#Shape1
+{
+   width: 153px;
+   height: 38px;
+   background-color: #005B88;
+   background-image: none;
+   border: 0px #2F4F4F solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+}
+#Shape1_text
+{
+   position: absolute;
+   left: 5px;
+   top: 8px;
+   width: 141px;
+   height: 23px;
+   overflow: hidden;
+   text-align: center;
+}
+#Shape1:hover
+{
+   background-color: #003955;
+   -webkit-transition: background-color 500ms ease-in-out 0ms;
+   -moz-transition: background-color 500ms ease-in-out 0ms;
+   transition: background-color 500ms ease-in-out 0ms;
+}
+#wb_FontAwesomeIcon1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon1:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon1
+{
+   height: 22px;
+   width: 24px;
+}
+#FontAwesomeIcon1 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 22px;
+   line-height: 22px;
+   vertical-align: middle;
+   width: 17px;
+}
+#wb_FontAwesomeIcon1:hover i
+{
+   color: #FFFFFF;
+}
+#Shape2
+{
+   width: 153px;
+   height: 38px;
+   background-color: #005B88;
+   background-image: none;
+   border: 0px #2F4F4F solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+}
+#Shape2_text
+{
+   position: absolute;
+   left: 5px;
+   top: 8px;
+   width: 141px;
+   height: 23px;
+   overflow: hidden;
+   text-align: center;
+}
+#Shape2:hover
+{
+   background-color: #003955;
+   -webkit-transition: background-color 500ms ease-in-out 0ms;
+   -moz-transition: background-color 500ms ease-in-out 0ms;
+   transition: background-color 500ms ease-in-out 0ms;
+}
+#wb_FontAwesomeIcon2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon2:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon2
+{
+   height: 22px;
+   width: 24px;
+}
+#FontAwesomeIcon2 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 22px;
+   line-height: 22px;
+   vertical-align: middle;
+   width: 17px;
+}
+#wb_FontAwesomeIcon2:hover i
+{
+   color: #FFFFFF;
+}
